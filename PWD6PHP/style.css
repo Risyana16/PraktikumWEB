@@ -1,0 +1,41 @@
+body {
+    font-family: "Times New Roman", serif;
+    font-size: 18px;
+    margin: 20px;
+}
+
+table.perkalian {
+    border: 2px solid #999;
+    border-collapse: separate;
+    border-spacing: 3px;
+    background-color: #ffffff;
+    padding: 2px;
+}
+
+table.perkalian td {
+    border: 2px solid #777;
+    font-size: 22px;
+    padding: 1px 3px;
+    height: 28px;
+}
+
+td.hijau {
+    background-color: #00ff00;
+}
+
+td.kuning {
+    background-color: #ffff00;
+}
+
+td.biru {
+    background-color: #00ffff;
+}
+
+td.putih {
+    background-color: #ffffff;
+    width: 95px;
+}
+
+td.kolom-awal {
+    width: 95px;
+}
